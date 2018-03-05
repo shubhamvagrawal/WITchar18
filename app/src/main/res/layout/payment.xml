@@ -1,0 +1,44 @@
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/pl">
+
+<LinearLayout
+    android:layout_marginTop="200dp"
+    android:layout_margin="20dp"
+    android:textAlignment="center"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#05000000"
+        android:fontFamily="@font/productsans"
+        android:text="Online Payment Details :
+        \nBank Account Name : Walchand Institute of Technology,Solapur
+        \nBank Name: SBI,Solapur, Balivies Branch
+\nSaving Account Number: 11087724250
+\nIFSC Code: SBIN0000483
+\nMICR Code: 413002002"
+        android:textAlignment="viewStart"
+        android:textColor="@color/cardview_dark_background"
+        android:textSize="24sp" />
+
+
+    <android.support.v7.widget.CardView
+        app:cardElevation="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        app:cardBackgroundColor="#00000000">
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
+
+
+</android.support.v4.widget.NestedScrollView>

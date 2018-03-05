@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/pl"
+    android:scaleType="centerCrop"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="9:00 AM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Project Competition"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Project Setup"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="11:00 AM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Paper Presentation"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Session I"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="11:00 AM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Electron Mechanics"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Preliminary Round"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="11:00 AM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Poster Making"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Poster Making"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="11:00 AM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="2Fast2Furious"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Competition"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="11:00 AM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Expert MANu"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Competition"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="11:00 AM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Catia Champs"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Competition"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="11:30 AM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="ASquare"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Preliminary Round"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="11:30 AM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="MCS51"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Round I"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="12:00 PM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Ecocrete"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Cube Testing"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="01:00 PM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="ASquare"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Development"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="01:00 PM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="MCS51"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Simulation"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="01:30 PM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Graphity"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="First Round"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="02:00 PM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Project Competition"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Assessment"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="02:00 PM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Paper Presentation"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Session II"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="02:00 PM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Electron Mechanics"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Final"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="02:00 PM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="InfraCivil"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Competition"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="02:00 PM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="ApTech"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Competition"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="04:00 PM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Paper Presentation"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Session III"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+            <!-- START -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.vipul.hp_hp.timelineview.TimelineView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="30dp"
+                    app:line="@color/colorPrimary"
+                    app:line_size="1dp"
+                    app:marker="@mipmap/marker"
+                    app:marker_size="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/productsans"
+                    android:text="04:00 PM"
+                    android:textColor="#b7b5b5"
+                    android:textSize="18dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="MCS51"
+                        android:textColor="#961eae"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/productsans"
+                        android:paddingLeft="20dp"
+                        android:text="Hardware Implementation"
+                        android:textSize="17dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- END -->
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

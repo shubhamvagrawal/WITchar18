@@ -1,0 +1,888 @@
+<resources>
+    <string name="app_name">WITchar 18</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="eventdetail">eventdetail</string>
+    <string name="eventrules">eventrules</string>
+    <string name="eventcontact">eventcontact</string>
+
+<string name="pp">
+    WIT is committed to protect your privacy. This privacy statement governs your use of the WIT\'s Mobile Apps. It does not apply to other online or offline WIT\'s  sites, services, or apps.
+   Collection and Use of Your Information:
+    The WIT\'s Mobile Apps do not collect or transmit to WIT personally identifiable information or require the use of logins, passwords, etc. You are, however, offered the opportunity to participate in the App Rating Program. The App Rating collects information about your experience with application through rating of the application. We use this information to improve the quality, reliability, and performance of apps, and services.
+    Security of Your Information:
+    WIT respects and protects the privacy of the individuals who use WIT\'s Mobile apps and is committed to helping protect the security of your information. The application is, however, not capturing any individually identifiable information about you.
+    Changes to this Privacy Statement:
+We will occasionally update this privacy statement to reflect changes in our products, services and customer feedback. When we post changes, we will revise the "last updated" date at the top of this statement. If there are material changes to this statement or in case WIT will use your personal information, we will notify you by a notification of such changes prior to implementing the change. We encourage you to periodically review this statement to be informed of how WIT is protecting your information. WIT welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by email to principal.witsolapur@gmail.com or use the contact information provided below:
+Walchand Institute of Technology, Solapur
+P.B.No.634, Walchand Hirachand Marg\n\n\n</string>
+
+<string name="aboutus">
+    S.A.P.D.J. Pathshala Trust, established in the year 1885, has now completed its 130 years of service in education. Originally started with the objective of imparting religious education to students, the trust gradually moved into the field of general education and established High Schools. Trust successfully runs 13 institutions, employing around 722 staff with around 12000 on-campus students.
+    S.A.P.D.J. Pathshala Trust started Walchand Institute of Technology (W.I.T.) in July 1983, which is appropriately named after Seth Walchand Hirachand, one of our countrys pioneer of industrial development. W.I.T. runs 6 undergraduate courses, 4 post graduate courses and Doctoral programme in Electronics, Civil, Computer Science, Electronics and TeleCommunication and Mechanical Enginnering with excellent results. The institute has a strong network of 160 dedicated faculty members, with around 22000 motivated students. MNCs recruit students from the institute on a large scale. The institute is accredited by N.B.A. New Delhi and awarded 'A' grade institute by State Government of Maharashtra and is acclaimed worldwide.
+</string>
+
+
+<!-- //********************************INFO OF ALL EVENTS**************************************************************/  -->
+
+    <string name="ecocrete_info">
+<!-- EcoCrete cube testing -->
+        Concrete is the most common and versatile construction material. Students need to have ‘Hands on’ experience and genuine feel of concrete making, to understand its quality and behavior. Concrete making with variations in characteristics of cement, proportioning of aggregates, chemistry of material and chemical admixtures, control of water binder ratio is a challenge to any civil engineer. WIT wants to encourage young Students of Civil Engineering to experience through these competition, the art and science of producing good quality concrete.
+</string>
+
+    <string name="infracivil_info">
+         <!--  Infra Civil (Civil-4)-->
+        Any rear scratching cave-dwelling cretin can make a craggy cave to keep the sun and the rain at bay.
+            It requires the hands of a master to give birth to a structure so majestic, it stops being a building and
+            starts being a monument. And that is the truest path to immortality for the apprentice in the trade of the brick
+            and mortar. Are you Eiffel enough?
+        </string>
+
+    <string name="dreamcad_info">
+         <!-- Dream CAD (Civil-5) -->
+        If you’re the sort to heap righteous critique to those ill-designed nonsensical design plans that fail to reach the
+            meager expectations one would unwittingly dare have of them, then YOU sir/ma’am are the one we’ve been waiting for to make
+            a designing wonder that’d drive reviewing critics into frenzy. Or are you?
+        </string>
+
+    <string name="wonder_tender_info">
+         <!-- Wonder Tender (Civil-6)-->
+        So as the rules say, you have to do the best tender. This is assumedly for the civil society and as such,
+            the competition complexities can be inquired at the very professional coordinators, assuming you are in the game
+            to win that is?
+
+        </string>
+
+    <string name="aptech_info">
+             <!-- ApTech Quiz (Civil-7) -->
+        Face against levels of progressively more mind-bending aptitude and civil tech questions in a two tiered quiz
+		show complete with pretty anchors and loud buzzers to reach the final stage and maybe win some fame and
+		glory to your name along the way. Let the builders do the telling!
+            </string>
+
+
+    <string name="asquare_info">
+             <!-- ASquare-->
+        Do you possess skills in JAVA, XML and ECLIPSE? Are you confident in your Android
+            know-how? Do mainstream Android tasks make you scoff in derision?\n\nWell, worry not, for we bring you
+            a two stage war to ascertain whether your boasts hold merit or are you just another second rate keyboard beater. Android Picassos ahoy!
+           </string>
+
+
+
+
+
+    <string name="catia_champ_info">
+              <!--catia champ-->
+Plan, model, draft and assemble wondrous mechanical miscellanea on a deadline using CATIA V3 fuelled by the
+		mechanical beast within.\n\n
+
+        Create the design of all designs to trump definitively over the rival
+		rookies and pave the way to systematic domination over their battered and broken tools. \n
+*Terms and conditions apply
+ </string>
+
+<string name="programming_contest_info">
+          <!-- programming contest-->
+   To know the code, to hasten the coder, to hasten the code. Only mastering one of the holy disciplines of the virtual language shall one be ready to face this challenge.
+    The skill to breathe life into the mundane has long been the trade of the engineer.With the coming of the info age, this has moved into virtual
+    environments for genesis.
+    So, will you be the one to be truest codemaster of them all ?
+</string>
+
+
+
+<string name="electron_info">
+         <!--  Electron Mechanics  -->
+            If you say you are a student of the Electronic age, then we’d say that you show us some justification.
+            How? This two stage event will test your circuit making capabilities and be a proof of why electronics is a
+            stream youthful and eternal. Just don’t blow up any ICs in the process, in your head or otherwise.
+
+        </string>
+
+<string name="energy_contraption_info">
+         <!--  Energy Contraption  -->
+         Usually the task of drawing a circle is an act that requires all the
+			complex skill and physical dexterity of a 5 year old.\n\nNow, add a limit to the number of possible direct
+			interactions, maximum energy efficiency and a limited six by six area and we have an interesting
+			situation in our hands. Oh and do not forget about the time limit! Believe yourself to be creative?
+			Be the best at this very simple task to know for real.
+
+        </string>
+
+<string name = "graphity_info">
+         <!--  Graphity  -->
+         Are you an artist in the bones of an engineer? Do picturesque results please you infinitely more
+            than grey mundane data outputs? Then we invite you to show us if your strokes are really genius or are
+            you just another Bob Ross proclaiming dirt stains as heavenly immortal works of art. This two round
+            elimination cum computer graphics generation contest will certainly verify.
+        </string>
+
+
+    <!--  COMPUTER RULES END  -->
+
+<string name="manu_expert_info">
+            <!--  Menu Expert -->
+            Be tested on the disciplines of the mech! If you can answer the riddle of mechanical steel - and whatever else
+		the rules decree, you must then plan for the heroic quest by writing arcane mech sequences and formulae.
+		The ultimate challenge for the worthy ones shall be the test of the birth of THE COMPONENT!
+        </string>
+
+<string name ="network_treasure_hunt_info">
+<!-- Network Treasure Hunt-->
+Want to be a pirate and ride the whimsy ocean waves in quest for treasure but the open sea and lack of ironically flowing water make you shudder and go green in the face?\n\n
+Fear not matey!  For we have a treasure hunt that’d be just as exhilarating – only without the added dirt, sweat, nasty grog or risk of undue dismemberment. And it’s on
+a computer while sitting in an air-cooled room too!
+</string>
+
+
+<string name="papercse_info">
+<!-- CSE Paper Presentation-->
+    Feel that your exceptional talents of research and discovery are wasted on the clerical agenda of the civil higher-ups ? \n
+    Tired of wasting your breath writing the same old till there is nothing left in your inkpot ? \n \n
+    Think that you contain that shivering spark thats just waiting to be fed the fuel of creative indulgence to
+    escalate into the roaring inferno that will sear your name into history long and unforgiven?
+    \nWhy not write a paper about it then ?
+\n\nTopics are: \n
+1.Blockchain technology\n
+2.Capsule networks\n
+3.Reinforcement learning\n
+4.MLaaS\n
+5.Internet Of Things\n
+6.Business Intelligence/Econometrics\n
+7.Deep learning\n
+8.Data analytics\n
+9.SysOps and DevOps\n
+10.Natural Language Understanding
+</string>
+
+<string name="papermech_info">
+    <!-- Mech paper presentation-->
+    Feel that your exceptional talents of research and discovery are wasted on the clerical agenda of the civil higher-ups ? \n
+    Tired of wasting your breath writing the same old till there is nothing left in your inkpot ? \n \n
+    Think that you contain that shivering spark thats just waiting to be fed the fuel of creative indulgence to
+    escalate into the roaring inferno that will sear your name into history long and unforgiven?
+    \nWhy not write a paper about it then ?
+\n\nTopics are :\n
+1. Cryogenics.\n
+2. Nanotechnology.\n
+3. Production Prototyping.\n
+4. Mechanical Engineering Design\n
+  \tA. CAD/CAM/CAE/FEM\n
+  \tB. Ergonomics\n
+5. Robotics\n
+\tA. Automation\n
+\tB. Mechatronics\n
+\tC. MEMS\n\n
+</string>
+
+<string name="paperentc_info">
+    <!-- ENTC paper presentation-->
+    Feel that your exceptional talents of research and discovery are wasted on the clerical agenda of the civil higher-ups ?\n
+    Tired of wasting your breath writing the same old till there is nothing left in your inkpot ?\n\n
+    Think that you contain that shivering spark thats just waiting to be fed the fuel of creative indulgence to
+    escalate into the roaring inferno that will sear your name into history long and unforgiven?
+    \nWhy not write a paper about it then ?
+    \n\nTopics are:\n
+1. Image and Video Processing\n
+2. VLSI/ULSI Design and Fabrication\n
+3. Radio and Satellite Communication\n
+4. E-waste Management\n
+5. Embedded System Design\n
+6. Optical Communication\n
+7. System on Chip (SoC)\n
+8. Ad-hoc Network\n
+9. Speech Processing\n
+10. Internet Of Things\n
+11. Augmented Realities\n
+12. Power Electronics\n
+    13. Nanotechnology\n
+</string>
+
+    <string name="papercivil_info">
+    <!-- paper civil -->
+    Feel that your exceptional talents of research and discovery are wasted on the clerical agenda of the civil higher-ups ?\n
+    Tired of wasting your breath writing the same old till there is nothing left in your inkpot ?\n \n
+    Think that you contain that shivering spark thats just waiting to be fed the fuel of creative indulgence to
+    escalate into the roaring inferno that will sear your name into history long and unforgiven?
+    \nWhy not write a paper about it then ?
+\n\nTopics are :\n
+        1.  Modern urban transport system\n
+        2. Remote sensing and GIS for civil engg. problems\n
+        3. Modern construction techniques in civil engg.\n
+        4. Water resource management for suitable development.\n
+        5. Disaster management in flood/earthquake/tsunami and other natural disaster\n
+        6. Automation in construction industries.\n
+        7. Recent advances in structural/Geo-technical/water resource/ environmental/transportation/construction engg.\n
+        8. Green building for quality living.\n
+</string>
+
+
+
+<string name ="projcse_info">
+       <!-- CSE Project Presentation-->
+    Feel that your exceptional talents of creation and presentation are wasted on the theoretical muck of the CSE higher-ups?
+    Tired of wasting your though processes doing the same old same old till your IQ pulse seems to flatline? Think that you contain that shuddering
+	spark thats just waiting to be fed the fuel of defiant obfuscation to escalate into the roaring inferno that\'ll sear your name into history old
+	and unforgotten?
+	\n\nWhy not make a project instead then?
+</string>
+
+<string name ="projmech_info">
+       <!-- Mech Project Presentation-->
+    Feel that your exceptional talents of creation and presentation are wasted on the theoretical muck of the CSE higher-ups?
+    Tired of wasting your though processes doing the same old same old till your IQ pulse seems to flatline? Think that you contain that shuddering
+	spark thats just waiting to be fed the fuel of defiant obfuscation to escalate into the roaring inferno that\'ll sear your name into history old
+	and unforgotten?
+	\n\nWhy not make a project instead then?
+</string>
+
+<string name ="projentc_info">
+       <!-- ENTC Project Presentation-->
+    Feel that your exceptional talents of creation and presentation are wasted on the theoretical muck of the CSE higher-ups?
+    Tired of wasting your though processes doing the same old same old till your IQ pulse seems to flatline? Think that you contain that shuddering
+	spark thats just waiting to be fed the fuel of defiant obfuscation to escalate into the roaring inferno that\'ll sear your name into history old
+	and unforgotten?
+	\n\nWhy not make a project instead then?
+</string>
+
+    <string name ="projcivil_info">
+    <!-- CIVIL Project Presentation-->
+    Feel that your exceptional talents of creation and presentation are wasted on the theoretical muck of the CSE higher-ups?
+    Tired of wasting your though processes doing the same old same old till your IQ pulse seems to flatline? Think that you contain that shuddering
+    spark thats just waiting to be fed the fuel of defiant obfuscation to escalate into the roaring inferno that will sear your name into history old
+    and unforgotten?
+    \n\nWhy not make a project instead then?
+</string>
+
+<string name="poster_making_info">
+         <!-- Poster Making-->
+         Sounds simple yes? Just like the showing poster template of some favorite ad or movie or some such right?
+            I’d urge you to guess, again.\n\n
+    This competition involves not flights of bumbling fantasy but rather a
+            representation of your technical perception on the issues provided. And in a physical form no less.
+            So go ahead, make a technical poster.
+            </string>
+
+<string name="quizotronics_info">
+<!--  Quizotronics -->
+"Yes you need to preferably belong to either the electronics or telecommunications department to enter this thing.It is indeed a woefully uninspired naming choice that can be attributed to murky tradition. It’s a tech quiz competition. Need we say more?
+</string>
+
+
+<string name="deadlyfollower_info">
+<!-- Robotics -->
+• Deadly Follower • \n
+The mechanical electricians take on popular children game follow the leader \n
+Creating a bot to follow about the black line of fate to whichever
+way the whimsical examiners prompt.\n\n
+Think that making puny splotches of clumsiness on a computer is for the weak?
+Are you too hardcore for the virtual world?\n\nThen this gentleman/lady is your chance to construct a
+construct so constructive that its construction spews forth destruction upon the crude toasters that those
+other wannabe robotics ‘savants’ fumble to assemble.\n\n
+</string>
+
+<string name="fastfurious_info">
+Its an obstacle course. For robots! Also, bring your own batteries.\n
+Think that making puny splotches of clumsiness on a computer is for the weak?\n
+Are you too hardcore for the virtual world? Then this gentleman/lady is your chance to construct
+a construct so constructive that its construction spews forth destruction upon the crude toasters
+that those other wannabe robotics ‘savants’ fumble to assemble.\n
+</string>
+
+
+<string name="stadd_war_info">
+         <!--  STADD War  -->
+         It’s not so much a war of armies as it is the designing of stable trusses for the armies to fight
+            upon and the ground to not collapse under their collective load and ruin the awesome fight sequences.\n\nSo go ahead,
+            make an awe-inspiring battlefield capable of hosting glorious confrontations.
+
+        </string>
+
+
+<string name="web_imagica_info">
+         <!--  Web Imagica -->
+         What, I ask you, frequent your lives in greater quantities – pages, or web pages? Websites are numerous in
+            quantity and consequently, web pages more so. The same cannot however be said of the quality criterion.\n\nSo come.
+            Come and make a web page so ‘worthy’, that it’d  be worthy of Thor’s hammer – or alternatively, one that’d make the
+            internet proud.
+        </string>
+
+
+
+
+
+
+
+<string name="googleit_info">
+<!--Google It info -->
+We know and we have seen the tests that - no matter the complexity - crumble in the face of deceit and cunning. But what if the skill of deceit is the
+one being tested? What if cunning is not a shorter path, but rather, the ONLY path?\n\n
+We humans cheat, steal and lie our way through our entire existances - by innocence or guilt, for inspiration or desperation, in life and death.
+So we present to you a challenge where the known world greatest treasure is stored. \n
+We DARE you, to Google it!
+</string>
+
+<string name="googleit_rules">
+<!--Google It rules -->
+1. Participants are expected to maintain decorum. We reserve the right to disqualify any participant found misbehaving. \n
+2. In case of disputes the decision of event heads and judges will be final and binding to all.\n
+3. Structure and rules of event may be changed without prior intimation, Participants are requested to check the website regularly for updates.\n
+4. Participants are requested to bring ID proof like college I-Card and a smartphone with them. No external equipment other than mentioned above and provided by organizers can be used.\n
+5. The venue of the event will be informed to the participants accordingly.\n
+6. The participation is individual and no teams can be formed.\n
+7. A participant can take part more than once.\n
+8. The prizes for this event will be given on the spot.\n\n
+
+Event Structure:\n
+15 questions to be answered in 20 minutes using Google.\n\n
+
+How to play:\n
+The participant will have to search for the answers to the given questions on Google and write the answer accordingly.
+Internet access will be provided by the organisers.
+The answers can only be searched on the smartphone and the participant cannot use any other electronic device like laptop etc.
+</string>
+
+<string name="logoquiz_info">
+We know that you have all played that one game where you have to guess the famous name by the famous logo.\n
+It is after all with millions of downloads in its name on the stores. And we know that you know that you have searched
+and guessed and teamed-up your way through the entire guess list.\n\n
+Well lets not let all that genuine effort and dedication be in vain!\n
+So we - the \'out-of-the-box\' people - present to you - the pro logo detective - a chance to have fun and make some glorious cash out of your \'skills\'!
+</string>
+
+<string name="logoquiz_rules">
+1. Participants are expected to maintain decorum. We reserve the right to disqualify any participant found misbehaving.\n
+2. In case of disputes the decision of event heads and judges will be final and binding to all.\n
+3. Structure and rules of event may be changed without prior intimation, Participants are requested to check the website regularly for updates.\n
+4. Participants are requested to bring ID proof like college I-Card and a smartphone with them. No external equipment other than mentioned above and provided by organizers can be used.\n
+5. The venue of the event will be informed to the participants accordingly.\n
+6. The participation is individual and no teams can be formed.\n
+7. A participant can take part more than once.\n
+8. The prizes for this event will be given on the spot.\n\n
+
+Event Structure:\n
+30 logos to be recognized in 15 minutes.\n\n
+
+How to play:\n
+The participant will be given a sheet of paper and logos will be projected on a screen.\n
+The participant has to identify the logo and write their company name or the brand name whichever is
+applicable on that sheet of paper. The logos will be from various fields like IT companies, food companies, fashion,
+airlines, android apps and many more. You may download logo quiz apps from play store for your preparation.
+</string>
+
+
+
+
+
+<string name="matlab_info">
+	<!-- MATLAB competiton-->
+    To have the wisdom of the path of the circuit and to have the skill to the creation of the ciruit, that
+		is the way of the ECAD warrior!
+		The skill to breathe life into the mundane has long been the trade of the engineer. with the coming of the
+		info age, this has moved into virtual environments for genesis.\n\n So, will you be the one to be truest
+		circuit breaker of them all?
+    </string>
+
+
+<string name="microcontroller_info">
+		<!-- Microcontroller competition-->
+        The art of taking life might be flashy indeed, but it is the creationists that make what would
+			never die; C for yourself if the KEIL (c51) favors you and whether the shape-shifting god of
+			prophesies - PROTEUS - shall be your guide.
+			The skill to breathe life into the mundane has long been the trade of the engineer with the coming of the
+			info age, this has moved into virtual environments for genesis.\n\nso, will you be the one to be truest
+			puppeteer of them all?
+
+    </string>
+
+
+<!-- //********************************RULES OF ALL EVENTS**************************************************************/  -->
+
+
+<!-- //******************************** COMPUTER ENGG DEPARTMENT RULES START **************************************************************/  -->
+
+<string name="graphity_rules">
+<!-- GRAPHITY RULES -->
+1. A Task will be given to a group. \n
+2. Maximum 2 participants per team. \n
+3. Registration Fees: Rs 200/- per team. \n
+4. Participants can use any one of the language(c, c++, java) to complete given task. \n
+5. The specified task must be completed within 3 hours. \n
+</string>
+
+
+<string name="postermaking_rules">
+<!-- (II)TECHNICAL POSTER -->
+1.	Maximum participants 2 per team. \n
+2.	Registration fees: Rs  200/- per team. \n
+3.	The poster may include text, diagrams, pictures, photos from magazines, newspaper related to their topics. However cutting ,pasting etc. should be done at the time of competition. \n
+4.	Participants should confirm their entry number from the student co-ordinator which will be used as the identity of poster. No other identity of participants should be on the poster. \n
+5.	Participants will get 2 and ½ hours to complete their poster.\n
+6.	Topics of poster will be display one week before the competition.\n
+</string>
+
+
+<string name="asquare_rules">
+<!-- (III) ASQUARE (Android Application Development) -->
+Round-I Rules \n
+1.	In this round, total 30 Multiple Choice Questions test will be conducted. \n
+2.	These MCQs will be formed based on the basic concepts of Android and Java Programming. \n
+3.	This test will be attended by group of two participants. \n
+4.	Qualifying teams will be eligible for Round-II. \n \n
+
+Round-II Rules \n
+1.	In this round, specific app design and its implementation task will be given to a group. \n
+2.	Participants will be completing given app development within 3 hours using Android Programming language. \n
+3.	Participants can use Android docs for program implementation. \n
+4.	Any external source used for the event will lead to disqualification of the group. \n
+5.	Marks will be given based on different parameters like UI representation, UI elements used, Look and Feel, GUI design, Logic, presentation, comments, etc. \n
+6.	Registration Fees: Rs 200/- . \n
+7.	No. of participant 2 per team. \n
+Note: Participants will be provided with Android Studio. \n
+</string>
+
+<string name="programming_rules">
+<!-- (IV)CODE MARATHON -->
+1st Round: Aptitude Time: 10 AM\n
+• An online MCQ test. \n
+• The test would comprise of questions from Programming Techniques using “C” \n
+and Logical Reasoning. \n
+• Negative marking system. \n \n
+
+2nd Round: Fast Coding Time:-11:00 AM to 12:00 AM  \n
+• You will be given 6 programs, out of which you have to implement 3 programs as early as possible to qualify for Final round. \n
+• ACM ICPC Format will be followed. \n\n
+
+Final Round: Smart coding Time:- 12:30 PM to 1:30 PM\n
+• You will be given 1 problem statement to implement.\n
+• ACM ICPC Format will be followed.\n\n
+
+General rules:\n
+1. The programs can be written in any programming language (C, C++,Java, C#)\n
+2. The team of maximum 2 members.\n
+3. Online registration is compulsory; else you will not be allowed to participate in the contest.\n
+4. The participants may have to face a Panel of Judges in the final round and should be able to justifying their logic and code. \n
+5. Decision of the Judges/ coding evaluation engine will be final.\n
+6. Participants must carry a valid ID card during the event.\n
+7. The faculty coordinators reserve the rights to change any rules as per the requirement.\n
+</string>
+
+    <string name="webimagica_rules">
+<!-- (V)Web-Imagika -->
+1.	A Group of Maximum Two Participation. \n
+2.	Registration Fees: Rs 200/- per team. \n
+3.	Event will be of Two Rounds. \n
+4.	First Round will be ELIMINATION ROUND. \n
+5.	First Round will be a HOMEPAGE designing round. All the participants should design a start page of the website in 30 min of time provided. \n
+6.	In Second Round a 4+ page website is to be designed within 3 hours, based on the topic which will be announced on the day of the competition. \n \n
+Participants can use HTML5, CSS, JQuery, PHP, JSP, ASP.net or any other language for web development. \n
+</string>
+
+    <string name="papercse_rules">
+    <!--(VI) Paper Presentation -->
+    1.	Paper should be maximum of 6 pages of A4 size typed in Times New Roman,font size of 12,line spacing 1,IEEE format. \n
+    2.	Bring a hard copy with you \n
+    3.	Max. 2 participants \n
+    4.	Registration: ₹300 per team\n
+    5.	Each team will be provided a time limit of 15 minutes. \n
+    6.	Submit your paper abstract on the link given below or through website. \n
+    </string>
+
+
+    <string name="projcse_rules">
+    <!--(VII) Paper Presentation -->
+    1.	Max. 2 participants are allowed
+    (Food coupons will be given to only two candidates but certificates will be issued for 4 candidates per team).\n
+    2.	Participants are required to display the project for 2 days.\n
+    3.	Bring A3 size poster of your project for displaying.\n
+    4.	Candidate should submit 1 copy of project synopsis at the time of reporting.\n
+    5.	Respective College identity card is mandatory.\n
+    6.  Projects by students of SE, TE or BE. \n
+    7.  Projects in any of the sub branches of Computer Engineering \n
+    8.  Submit your project synopsis on the link given below or through website.\n
+    9.	Registration: ₹300 per team\n
+    </string>
+ <!-- //******************************** COMPUTER ENGG DEPARTMENT RULES END**************************************************************/  -->
+
+
+    <!-- //******************************** CIVIL ENGG DEPARTMENT RULES START**************************************************************/  -->
+    <string name="projcivil_rules">
+    <!--   (I) PROJECT COMPETITION: -->
+1.	Maximum 2 participants are allowed\n
+    (Food coupons will be given to only two candidates but certificates will be issued for 4 candidates per team).\n
+2.	Participants are required to display the project for 2 days.\n
+3.	Bring A3 size poster of your project for displaying.\n
+4.	Candidate should submit 1 copy of project synopsis at the time of reporting.\n
+5.	Respective College identity card is mandatory.\n
+6.  Projects by students of SE, TE or BE. \n
+7.  Projects in any of the sub branches of Mechanical Engineering \n
+8.  Submit your project synopsis on the link given below or through website.\n
+9.	Software based projects are also allowed. \n
+10. Registration fees:Rs 300/- per team \n
+       </string>
+
+       <string name="ecocrete_rules">
+   <!--    II) EcoCrete  (Concrete cube testing competition) -->
+           Problem statement-
+\nThe participants have to prepare a mix of M30 Grade Concrete by substituting basic ingredients of concrete with ecofriendly material.
+\nParticipants can substitute any ingredient of concrete.
+\nThe 7th day compressive strength will be tested on the event day, which shall be preferably in the range of 19.5 to 23 N/mm2.
+\nParticipants shall bring 3 cubes of 150x150x150 mm, along with mix design report duly signed by HOD.
+\nThe report must contain details of ingredient, calculations, proportions and cost of concrete per cubic meter.
+\nThe participants must bring appropriate quantity of physical samples of substituted materials.
+\n\nRules and Regulations-
+\nDate of casting must be clearly ENGRAVED on all 3 cubes.
+\nMaximum 3 participants per team.
+\nThe participants must bring their ID Cards.
+\nAll teams and their respective members should reach event venue in time.
+\nAll teams must maintain demureness at all times. Organizers may disqualify any team that behaves inappropriately.
+\nIncase of disputes the decision event head and judges will be final and binding to all.
+\nThe organizers reserve all rights to change any or all of the above rules as they deem fit. Change in rules, if any will be highlighted on website or informed.
+
+\n\nTesting of Cubes and Assessment of Report-
+\nStrength Test
+\nThree cubes will be tested and average strength will be determined.
+\nTo confirm the grade of concrete M30, the average strength shall be preferably in the range of 19.5 to 23 N/mm2.
+\nMaximum 50% weightage will be given to strength criteria.
+\nThe weightage for strength beyond 23 N/mm2 will be limited to maximum 50%.
+\nThe weightage for strength below 23 N/mm2 will be given accordingly.
+
+\n\nSubstitution for Ingredients
+\nTotal 30% weightage will be given for substituting Ecofriendly material
+\n(10% for cement + 10% for River Sand + 10% Coarse Aggregate).
+\nAppropriate quantity of physical sample of substituted material and their properties will be observed.
+
+\n\nEconomy of mix design
+The 20% weightage will be given to the economy of cube. The cost of concrete per cubic meter will be checked.
+\n\nJudging Criteria-
+\nThe team scoring higher weightage in total (A+B+C) will be declared as winner.
+\nIncase of Tie among the teams, the Economy and weight of the cube will be accounted.
+
+\nRegistration : ₹300
+   </string>
+
+       <string name="infracivil_rules">
+   <!--    (III) INFRACIVIL (Planning and Modeling): -->
+       1.	Maximum participants : 2 per team \n
+       2.	Registration fees : Rs. 200/- per team \n
+       3.	Prepare a model of Central Library Building for Enggineering at the venue using Mount boards and Adhesives. \n
+       4.	Prepare the municipal plan for the same. \n
+       5.	The assessment of model will be based on use of planning, principles, bye-laws and skill of model making with equal weight age (33% each). \n
+    \n6. Add plot dimensions as (50 x 100)  m in Infracivil theme.
+    \n7. Entry to be kept on 100 m side of plot.
+       </string>
+
+<string name="dreamcad_rules">
+    <!--   (IV) DREAM CAD (Planning and Drafting): -->
+       1.	Maximum participants: 2 per team. \n
+       2.	Registration fees: Rs. 200/- per team. \n
+       3.	Students have to plan Central Library Building of Engineering college and prepare AutoCAD drawing for it. \n
+   </string>
+
+       <string name="wondertender_rules">
+   <!--    (V) WONDER – TENDER (Tender Filling Competition): -->
+       1.	Maximum participants: 2 per team. \n
+       2.	Registration fees: Rs. 200/- per team. \n
+       3.	Tender notice will be published on our website 8 days before the competition. \n
+       4.   Prepre a Tender for construction of Central Library Building. \n
+       5.	Tenders shall be opened on the date of competition in presence of referees. \n
+       6.	The best tender will be awarded. \n
+   </string>
+
+       <string name="aptech_rules">
+    <!--   (VI) ApTech Quiz (Aptitude+Technical Quiz) -->
+       1.	Two rounds - Elimination round and Final round. \n
+       2.	Both the rounds consist of Aptitude and Technical questions. \n
+       3.	Maximum participants: 2 per team. \n
+       4.	Registration fee: Rs. 200/- per team. \n
+       5.	Calculator is allowed only in Final round. \n
+   </string>
+
+
+<string name="papercivil_rules">
+    <!--   (VIII) Paper Civil  -->
+    1.	Paper should be maximum of 6 pages and maximum 10 pages of A4 size typed in Times New Roman,font size of 12,line spacing 1,IEEE format. \n
+    2.	Bring a hard copy with you \n
+    3.	Maximum participants:2 per team \n
+    4.	Registration fees:Rs 300/- per team \n
+    5.	Each team will be provided a time limit of 10 mins ,8 mins for presentation and 2 mins for question answer session. \n
+</string>
+
+    <!-- //******************************** CIVIL ENGG DEPARTMENT RULES END**************************************************************/  -->
+
+
+<!-- //******************************** MECHANICAL ENGG DEPARTMENT RULES START**************************************************************/  -->
+
+<string name="deadlyfollower_rules">
+Problem Statement:\n
+Autonomous bot should follow the given track.
+\n1. The objective of the game is to complete the track in the least possible time and earn
+maximum points while completing the given task.
+\n2. The robot should be completely autonomous with required mechanical setup to complete
+the task. The dimensions of the robot should not exceed 20cm*20cm.No Lego kits are
+allowed.
+\n3. In case of any tie a, common task would be given on spot to both team &amp; winner would
+be decided on the basis f best timing and points in that tasks.
+\n4. In case there is tie (even after the task completion) then the match will be restarted.
+\n5. There will be multiple rounds.
+\n6. If the teams’ Autonomous robot does not make to the destination in the given time, then
+the winner will be decided on the basis of points.
+\n7. The matches for the knockout rounds will be decided by a proper scheme told by the
+referees at that time and will be binding.
+\n8. No programming of BOT will be allowed in middle of match, the bot must start again
+from the last covered check-point.
+\n9. No Lego kits are allowed.
+\n10. No. of participants 2 per team.
+\n11. Registration Fees: Rs 200/- per team.
+</string>
+
+<string name="fastfurious_rules">
+Problem Statement:\n
+Design remote controlled ROBOT that must cover maximum distance in shortest possible time overcoming various obstacles.\n
+1. The team should not consist of more than 3 members.\n
+2. For detailed specifications visit our website.\n
+3. Registration Fees:Rs 300/- per team.
+</string>
+
+
+
+
+
+<string name="catia_rules">
+<!--  (II)CATIA CHAMP -->
+1) This event is an Individual event and the task completion with the use of CATIA V5 R19. \n \n
+2) Task completion will be in TWO stages.\n
+Stage 1: Part modeling and Drafting (Time 1 Hour)\n
+The participants who will complete 1 st stage will be qualified for the Stage 2. \n
+Stage 2: Assembly (Time 1 Hour)\n
+3) Competition time : 1 Hour / stage\n
+4) Evaluation:\n
+i) Completion of the provided task.\n
+ii) Completion time.\n
+</string>
+
+<string name="expertmanu_rules">
+<!--  (III)   Expert Manu -->
+Round 1: Duration 30 min. \n
+1.	Objective type questions will be there. \n
+2.	Questions will be related to machine tool processes ,process engineering, machine drawing, tool engineering, metrology and quality control etc. \n \n
+Round2: Duration 30 min. \n
+1.	Component drawing will be given. \n
+2.	Students have to write operation sequence, machine required , measuring instrument required. \n \n
+Round 3: Duration 60 min \n
+1.	Students have to carry out machining operation on to produce component as per drawing. \n
+2.	Dimensional accuracy and surface finish has prime importance. \n \n
+General Rules: \n
+1.	Maximum participation : 2 (SE, TE,BE)(mechanical  engineering  students) \n
+2.	Registration fees 400 /- per team. \n
+3.	Judges decision will be final. \n
+4. Organizers have full right to change the rules as per the situation and requirements.
+</string>
+
+
+<string name="enterpreneurship_rules">
+   <!--  (IV) Entrepreneurship -->
+You are expected to think of an innovative business idea and prepare the business plan for the same.\n
+You may take a product or service.\n
+The business plan should be presented along following lines.\n
+• Name of product or service\n
+• Need of that product or service (which problem it will solve?)\n
+• Potential customers/market\n
+• Advantages of your product/service considering competitor’s product/service\n
+• Financial aspects of your business\n
+You should bring one report (Hard copy) of the business plan.\n\n
+Presentation time: 8 minutes\n
+Question –Answer : 2 minutes\n\n
+Maximum participants : 2 per team\n
+Registration fees 300/- per team\n
+</string>
+
+<string name="bow_rules">
+     <!--  BOW -->
+You have to prepare a useful product from scrap/waste material and bring with you.\n
+Make use of maximum scrap material.\n
+You have to arrange it in table and explain to judges.\n
+Maximum participants : 2 per team\n
+Registration fees 300/- per team\n
+</string>
+
+<string name="papermech_rules">
+  <!--   (V) Paper Presentation -->
+    1.	Paper should be maximum of 6 pages of A4 size typed in Times New Roman,font size of 12,line spacing 1,IEEE format. \n
+    2.	Bring a hard copy with you \n
+    3.	Maximum participants:2 per team \n
+    4.	Registration fees:Rs 300/- per team \n
+    5.	Each team will be provided a time limit of 10 mins ,8 mins for presentation and 2 mins for question answer session. \n
+    6.	Submit your paper abstract on the link given below or through website. \n
+</string>
+
+
+<string name="projmech_rules">
+    <!--  project mechanical -->
+1.	Maximum 2 participants are allowed
+    (Food coupons will be given to only two candidates but certificates will be issued for 4 candidates per team).\n
+2.	Participants are required to display the project for 2 days.\n
+3.	Bring A3 size poster of your project for displaying.\n
+4.	Candidate should submit 1 copy of project synopsis at the time of reporting.\n
+5.	Respective College identity card is mandatory.\n
+6.  Projects by students of SE, TE or BE. \n
+7.  Projects in any of the sub branches of Mechanical Engineering \n
+8. Submit your project synopsis on the link given below or through website.
+</string>
+
+
+    <!-- //******************************** MECHANICAL ENGG DEPARTMENT RULES END**************************************************************/  -->
+
+
+
+    <!-- //******************************** ENTC ENGG DEPARTMENT RULES START**************************************************************/  -->
+
+    <string name="MCS51_rules">
+    <!-- (I) MCS 51 -->
+     A Team may consist of maximum of 2 members. \n
+     Registration Fees :Rs 200/- per team . \n
+     1. Use of calculators is allowed. \n
+     2. Mobile phones and any electronic/mechanical gadgets is strictly prohibited during elimination round. \n
+     3. Hardware kit or simulator required for design will be provided by organizers. \n
+     4. Decision of judges will be final and binding to all. \n
+ </string>
+
+
+     <string name="electron_rules">
+   <!--  (II) Electron Mechanics: Rules  -->
+     Electron mechanics is a Circuit Building Competition. \n
+     Contest conducted in two rounds . \n
+     Qualifying round: MCQ type, Shortlisted candidates will move on to final round. \n \n
+     Final round : Circuit Building \n
+     Topic for design will be given on the spot. \n
+     Maximum participants: Two members per team. \n
+     Name of the participants entered in the registration forms shall be considered final. \n
+     Registration Fees: Rs. 200/- per team \n
+ </string>
+
+
+     <string name="nth_rules">
+  <!--   (III)NETWORK  TREASURE HUNT -->
+     The game asks you to solve the puzzles or questions and find out the treasure on computers. \n
+     Questions may be based on general aptitude, puzzle or games like miniclip. \n
+     The participants who succeed to solve all puzzles will be selected for next round based on the criteria. \n
+     The elimination will be strictly based on total time taken and the number of puzzles solved by participants. \n
+     Based on the no. of participants no. of rounds will be finalised.\n
+     Registration fees:  Rs 200/- \n
+     No.of Participants: 2\n
+     Even though team consits of one person it is allowed.\n
+ </string>
+
+    <string name="energy_rules">
+<!--  (IV)Energy Contraption -->
+1. The minimum and maximum time for contraption is 2 minutes and 10 minutes respectively. \n
+After 10 minutes, 30 points per minute will be deducted from the total score.\n
+2. The team will be disqualified if they exceed permissible number of hand touches in the
+contraption.\n
+3. Final decision made by judges and organizers will be binding to all.\n
+4. No alteration in any step will be allowed during the trial of the contraption.\n
+5. A space of 6ft.*6ft.*6ft. (l*b*h) will be provided to each team.\n
+6. Intermediate tasks should not be repeated.\n\n
+General Rules:-
+1) Maximum 4 participants per team.\n
+2) Area provided will be 6 feet x 6 feet x 6 feet.\n
+3) Only 230 V AC power supply and Task set up will be provided by organizers.\n
+4) Reporting time for the team is 7.30AM and actual event (judging) will start at 10.00AM.\n
+Before that each team should prepare their complete setup.\n
+5) Team can perform intermediate task to gain bonus points. These are not compulsory tasks.\n
+6) Only 4 hand touches are allowed (with deduction of 30 points each), team with more than 4 hand touches will be disqualified.\n
+7) Only one chance is allowed to complete the process.\n
+8) Use of explosives is not allowed.\n
+9) Team should submit their soft copy and hard copy of abstract on or before 12th March. \n
+10) The format of abstract should be as follows in the link :
+ </string>
+
+
+     <string name="matlab_rules">
+    <!-- (V)MATLAB Programming Contest -->
+     Contest open for all students (FE to BE) of all branches of engineering. \n
+     Maximum two participants per team. \n
+     Registration Fees: Rs 200/- per team. \n
+     Contest is of two rounds- Qualifying Round and Final MATLAB Programming Round \n
+     Qualified teams from round one will be participating the final programming round \n \n
+     Round I-Qualifying Round \n
+     Multiple choice questions - duration of 30 minutes and no negative marking \n
+     Questions are based on basic MATLAB \n \n
+     Round II -Final Programming Round \n
+     Programming task to be completed on provided PC. \n
+     Final task is to be performed using basic MATLAB only, use of toolbox is prohibited. \n
+ </string>
+
+
+     <string name="quizotronics_rules">
+   <!--  (VI)Quizotronics -->
+     Each team will consist of two members. \n
+     Two elimination rounds:- \n
+     Google It: Answers maximum questions by surfing on Google. \n
+     MCQ test: Technical test with negative marking. \n
+     Top 5 teams will be selected for final quiz. \n
+     Further details regarding quiz will be displayed at the time of event. \n
+     Registration Fees: Rs 200 per team . \n
+     Maximum participants:  2 . \n
+     Decision of organizers will be final and binding to all. \n
+ </string>
+
+
+     <string name="paperentc_rules">
+   <!--  (VII)Paper Presentation -->
+     Paper should be maximum of 6 pages of A4 size typed in Times New Roman,font size of 12,line spacing 1,IEEE format. \n
+     Bring a hard copy with you \n
+     Maximum participants:2 per team \n
+     Registration fees:Rs 300/- per team \n
+     Each team will be provided a time limit of 15 minutes. \n
+     Submit your paper abstract on the link given below or through website. \n
+ </string>
+
+
+    <string name="projentc_rules">
+    <!--  project entc -->
+1.Open for engineering student.(SE to BE). \n
+2.Models/designs/prototype/concept/simulation based projects are allowed.\n
+3.Bring two hard copies of synopsis and mail a soft copy.\n
+4.Synopsis should contain the details of group.\n
+5.Project demonstrate is must.If failed to do so can go for paper presentation.\n
+6.Any special requirements for project display should be well communicated in advance to the event co-ordinator.\n
+7.Online registration and requiremnts is must through app.\n
+8.Registration fee rs.300/- per project(maximum 2 participants).\n
+9.For all e-mail communication include group name as a part of subject.\n
+10.For more details contact to co-ordinator. \n
+
+
+ </string>
+    <string name="enterprise_info">Innovative Business Ideas</string>
+    <string name="best_from_waste_info">Prepare useful product from waste material and bring with you.</string>
+
+    <!-- //******************************** ENTC ENGG DEPARTMENT RULES END**************************************************************/  -->
+
+    <!-- //********************************RULES END  OF ALL EVENTS**************************************************************/  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

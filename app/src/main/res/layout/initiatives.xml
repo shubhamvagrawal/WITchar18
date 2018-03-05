@@ -1,0 +1,890 @@
+<LinearLayout
+    android:background="#e6e6e6"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"     >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="20dp"
+                android:orientation="vertical">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    app:cardElevation="5dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        android:fontFamily="@font/productsans"
+                        android:text="WITchar has always been a majority innvotion driven event for the tremendously picturesque response and decent successes every year it has accomplished"
+                        android:textAllCaps="false"
+                        android:textColor="@color/cardview_dark_background"
+                        android:textSize="18sp" />
+                </android.support.v7.widget.CardView>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:fontFamily="@font/productsans"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:text="Organising Committee"
+                        android:textAllCaps="true"
+                        android:textColor="@color/cardview_shadow_start_color"
+                        android:textSize="18sp" />
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvprincipal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/principal"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/halkude" />
+
+                            <TextView
+                                android:id="@+id/principalname"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/principal"
+                                android:fontFamily="@font/productsans"
+                                android:text="Dr. S.A Halkude"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/principald"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/principalname"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/principal"
+                                android:fontFamily="@font/productsans"
+                                android:text="Principal, Convener"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvmadki"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/madki"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/madki" />
+
+                            <TextView
+                                android:id="@+id/madkiname"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/madki"
+                                android:fontFamily="@font/productsans"
+                                android:text="Prof. M.R Madki"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/madkid"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/madkiname"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/madki"
+                                android:fontFamily="@font/productsans"
+                                android:text="Co-Convener"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <TextView
+                        android:fontFamily="@font/productsans"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:text="Head of Departments"
+                        android:textAllCaps="true"
+                        android:textColor="@color/cardview_shadow_start_color"
+                        android:textSize="18sp" />
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvsspatil"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:layout_alignParentTop="true"
+                            android:layout_marginTop="5dp">
+
+                            <ImageView
+                                android:id="@+id/sspatil"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/sspatil" />
+
+                            <TextView
+                                android:id="@+id/sspatilname"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/sspatil"
+                                android:fontFamily="@font/productsans"
+                                android:paddingBottom="0dp"
+                                android:text="Dr. S.S Patil"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/sspatild"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/sspatilname"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/sspatil"
+                                android:fontFamily="@font/productsans"
+                                android:text="Civil Department"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvgengaje"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/gengaje"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/gengaje" />
+
+                            <TextView
+                                android:id="@+id/gengajename"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/gengaje"
+                                android:fontFamily="@font/productsans"
+                                android:paddingBottom="0dp"
+                                android:text="Dr. S.R Gengaje"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/gengajed"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/gengajename"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/gengaje"
+                                android:fontFamily="@font/productsans"
+                                android:text="Electronics Department"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvprkulkarni"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/prkulkarni"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/rpkulkarni" />
+
+                            <TextView
+                                android:id="@+id/prkulkarniname"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/prkulkarni"
+                                android:fontFamily="@font/productsans"
+                                android:paddingBottom="0dp"
+                                android:text="Dr. P.R. Kulkarni"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/prkulkarnid"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/prkulkarniname"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/prkulkarni"
+                                android:fontFamily="@font/productsans"
+                                android:text="Mechanical Department"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvdube"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/dubename"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/dube"
+                                android:fontFamily="@font/productsans"
+                                android:paddingBottom="0dp"
+                                android:text="Dr. R.R Dube"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/dubed"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/dubename"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/dube"
+                                android:fontFamily="@font/productsans"
+                                android:text="ENTC Department"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+
+                            <ImageView
+                                android:id="@+id/dube"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/dube" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvlonikar"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/lonikar"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/gram" />
+
+                            <TextView
+                                android:id="@+id/lonikarname"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/lonikar"
+                                android:fontFamily="@font/productsans"
+                                android:paddingBottom="0dp"
+                                android:text="Dr. N.S. Gramopadhye"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/lonikard"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/lonikarname"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/lonikar"
+                                android:fontFamily="@font/productsans"
+                                android:text="General Science"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+
+
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvlobo"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/lobo"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/lobo" />
+
+                            <TextView
+                                android:id="@+id/loboname"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/lobo"
+                                android:fontFamily="@font/productsans"
+                                android:text="Prof. L.M.R.J Lobo"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/lobod"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/loboname"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/lobo"
+                                android:fontFamily="@font/productsans"
+                                android:text="IT Department"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvargiddi"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/argiddi"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/argiddi" />
+
+                            <TextView
+                                android:id="@+id/argiddiname"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/argiddi"
+                                android:fontFamily="@font/productsans"
+                                android:paddingBottom="0dp"
+                                android:text="Prof. R.V Argiddi"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/argiddid"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/argiddiname"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/argiddi"
+                                android:fontFamily="@font/productsans"
+                                android:text="CSE Department"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+                    <TextView
+                        android:fontFamily="@font/productsans"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:text="Faculy Coordinator"
+                        android:textAllCaps="true"
+                        android:textColor="@color/cardview_shadow_start_color"
+                        android:textSize="18dp" />
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvkashid"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/kashid"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/kalyan" />
+
+                            <TextView
+                                android:id="@+id/kashidname"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/kashid"
+                                android:fontFamily="@font/productsans"
+                                android:paddingBottom="0dp"
+                                android:text="Dr. M.G. Kalyanshetti"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/kashidd"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/kashidname"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/kashid"
+                                android:fontFamily="@font/productsans"
+                                android:text="Civil and Allied Branches"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvarkulkarni"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/arkulkarni"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/arkulkarni" />
+
+                            <TextView
+                                android:id="@+id/arkulkarniname"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/arkulkarni"
+                                android:fontFamily="@font/productsans"
+                                android:paddingBottom="0dp"
+                                android:text="Dr. Mrs. A. M. Pujar"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/kulkarnid"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/arkulkarniname"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/arkulkarni"
+                                android:fontFamily="@font/productsans"
+                                android:text="Computer and Allied Branches"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvgpjain"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/gpjain"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/gpjain" />
+
+                            <TextView
+                                android:id="@+id/gpjainname"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toEndOf="@+id/gpjain"
+                                android:layout_toRightOf="@+id/gpjain"
+                                android:fontFamily="@font/productsans"
+                                android:text="Prof. G.P Jain"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/gpjaind"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/gpjainname"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/gpjain"
+                                android:fontFamily="@font/productsans"
+                                android:text="Electonics and Allied Branches"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvmitragotri"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/mitragotri"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/mitragotri" />
+
+                            <TextView
+                                android:id="@+id/mitragotriname"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/mitragotri"
+                                android:fontFamily="@font/productsans"
+                                android:text="Prof. P.P Mitragotri"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/mitragotrid"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/mitragotriname"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/mitragotri"
+                                android:fontFamily="@font/productsans"
+                                android:text="Mechanical and Allied Branches"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <TextView
+                        android:fontFamily="@font/productsans"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:text="Student Head Coordinator"
+                        android:textAllCaps="true"
+                        android:textColor="@color/cardview_shadow_start_color"
+                        android:textSize="18dp" />
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvsc1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/sc1"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/aditya" />
+
+                            <TextView
+                                android:id="@+id/sc1name"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/sc1"
+                                android:fontFamily="@font/productsans"
+                                android:paddingBottom="0dp"
+                                android:text="Aditya Ghongade"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/sc1d"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/sc1name"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/sc1"
+                                android:fontFamily="@font/productsans"
+                                android:text="Civil Engg. and Allied Branches"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvsc2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/sc2"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/pradeep" />
+
+                            <TextView
+                                android:id="@+id/sc2name"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/sc2"
+                                android:fontFamily="@font/productsans"
+                                android:paddingBottom="0dp"
+                                android:text="Pradeep Jagtap"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/sc2d"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/sc2name"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/sc2"
+                                android:fontFamily="@font/productsans"
+                                android:text="Computer Engg. and Allied Branches"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvsc3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/sc3"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/naitik" />
+
+                            <TextView
+                                android:id="@+id/sc3name"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toEndOf="@+id/sc3"
+                                android:layout_toRightOf="@+id/sc3"
+                                android:fontFamily="@font/productsans"
+                                android:text="Naitik Mandot"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/sc3d"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/sc3name"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/sc3"
+                                android:fontFamily="@font/productsans"
+                                android:text="Electonics Engg. and Allied Branches"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cvsc4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/sc4"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/kanchankoti" />
+
+                            <TextView
+                                android:id="@+id/sc4name"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_toRightOf="@+id/sc4"
+                                android:fontFamily="@font/productsans"
+                                android:text="Tapan Kanchankoti"
+                                android:textColor="@color/cardview_dark_background"
+                                android:textSize="22sp" />
+
+                            <TextView
+                                android:id="@+id/sc4d"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/sc4name"
+                                android:layout_marginLeft="10dp"
+                                android:layout_toRightOf="@+id/sc4"
+                                android:fontFamily="@font/productsans"
+                                android:text="Mechanical Engg. and Allied Branches"
+                                android:textColor="#8b8b8b"
+                                android:textSize="18sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+                </LinearLayout>
+
+                <android.support.v7.widget.CardView
+                    app:cardElevation="0dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    app:cardBackgroundColor="#00000000">
+                </android.support.v7.widget.CardView>
+
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>
